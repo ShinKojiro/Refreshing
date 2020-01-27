@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\lordk\Visual Studio Projects\Back to Basics\File stream\Fstreaming\Fstreaming\Relearning.cpp" />
+    <ClCompile Include="IfSwitch.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

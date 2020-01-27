@@ -18,5 +18,8 @@
     <ClCompile Include="C:\Users\lordk\Visual Studio Projects\Back to Basics\File stream\Fstreaming\Fstreaming\Relearning.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IfSwitch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
