@@ -27,5 +27,8 @@
     <ClCompile Include="Interest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FahrenheitCelsius.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
