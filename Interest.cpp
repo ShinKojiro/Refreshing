@@ -41,7 +41,8 @@ int main()
 
 		cout << "\nTotal amount due for loan is $" << totalInterest << ".\n";
 		cout << "The total owed back is $" << totalDue << ".\n";
-
+		cout << "\nWould you like to enter a new balance? ";
+		cin >> reEnter;
 	}
 
 }
